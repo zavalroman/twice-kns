@@ -4,4 +4,7 @@
   <FullDownload type="ADMINDATA">pdata.pwx</FullDownload>
   <FullDownload>ProjectSettings.hsf</FullDownload>
   <FullDownload>DeviceSettings.hsf</FullDownload>
+  <FullDownload type="WEBDATA">C:\Program Files (x86)\Siemens\Automation\Portal V13\data\hmi\transfer\13.0.1\CP_7_9\WebContent.zip</FullDownload>
+  <FullDownload type="WEBDATA">C:\Program Files (x86)\Siemens\Automation\Portal V13\data\hmi\transfer\13.0.1\CP_7_9\SystemData.zip</FullDownload>
+  <FullDownload destination="SmartServer.rld">C:\Program Files (x86)\Siemens\Automation\Portal V13\data\hmi\transfer\rld\StandardTP700.rld</FullDownload>
 </DownloadTask>
